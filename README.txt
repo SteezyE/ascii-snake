@@ -2,7 +2,7 @@
 ===================
 -- prerequisites --
 OS: some Linux distro
-Libs: ncursesw (e.g. `sudo apt install libncursesw5-dev` for Debian/Ubuntu)
+Libs: ncursesw (e.g. sudo apt install libncursesw5-dev for Debian/Ubuntu)
 
 -- installation --
 cd src/
